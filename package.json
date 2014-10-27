@@ -1,0 +1,22 @@
+{
+  "name": "node-jira-trackit-router",
+  "version": "1.0.0",
+  "description": "A simple router to route issues from TrackIT to JIRA based on certain conditions ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaunakv1/node-jira-trackit-router.git"
+  },
+  "author": "Shaunak Vairagare",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaunakv1/node-jira-trackit-router/issues"
+  },
+  "homepage": "https://github.com/shaunakv1/node-jira-trackit-router",
+  "devDependencies": {
+    "jira": "^0.9.2"
+  }
+}
